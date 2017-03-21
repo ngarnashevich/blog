@@ -1,0 +1,21 @@
+@media screen {
+    .bg {
+        background: url('../images/blog.jpg');
+        background-repeat: no-repeat;
+        background-position: top;
+        background-size: contain;
+        height: 500px;
+    }
+}
+
+.button-login {
+    margin-left: 168px;
+    margin-top: 5px;
+}
+.text-left {
+    margin-left:10px;
+}
+
+.pull-left{
+    margin-right: 10px;
+}
